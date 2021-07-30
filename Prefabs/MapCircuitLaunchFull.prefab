@@ -152,7 +152,7 @@ MonoBehaviour:
   stopLine: {fileID: 0}
   yieldToLanes: []
   laneTurnType: 1
-  speedLimit: 0.5
+  speedLimit: 1
 --- !u!1 &4659464061500984014
 GameObject:
   m_ObjectHideFlags: 0
@@ -290,7 +290,7 @@ MonoBehaviour:
   stopLine: {fileID: 0}
   yieldToLanes: []
   laneTurnType: 1
-  speedLimit: 0.5
+  speedLimit: 1
 --- !u!1 &4659464061558402893
 GameObject:
   m_ObjectHideFlags: 0
@@ -1916,7 +1916,7 @@ MonoBehaviour:
   stopLine: {fileID: 0}
   yieldToLanes: []
   laneTurnType: 1
-  speedLimit: 0.5
+  speedLimit: 1
 --- !u!1 &4659464063206557163
 GameObject:
   m_ObjectHideFlags: 0
@@ -2326,7 +2326,7 @@ MonoBehaviour:
   stopLine: {fileID: 0}
   yieldToLanes: []
   laneTurnType: 1
-  speedLimit: 0.5
+  speedLimit: 1
 --- !u!1 &4659464063288370485
 GameObject:
   m_ObjectHideFlags: 0
@@ -2656,7 +2656,7 @@ MonoBehaviour:
   stopLine: {fileID: 0}
   yieldToLanes: []
   laneTurnType: 1
-  speedLimit: 0.5
+  speedLimit: 1
 --- !u!1 &4659464063507492439
 GameObject:
   m_ObjectHideFlags: 0
@@ -2746,7 +2746,7 @@ MonoBehaviour:
   stopLine: {fileID: 0}
   yieldToLanes: []
   laneTurnType: 1
-  speedLimit: 0.5
+  speedLimit: 1
 --- !u!1 &4659464063539919876
 GameObject:
   m_ObjectHideFlags: 0
