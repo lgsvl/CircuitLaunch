@@ -11,9 +11,25 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 4
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -1433742746302018989, guid: 4509b91facaeeb14584fb306b23fcaa4, type: 3}
+--- !u!54 &8052551866699622626
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 269051255388117890}
+  serializedVersion: 2
+  m_Mass: 0.1
+  m_Drag: 0
+  m_AngularDrag: 0
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 1
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!1 &6622673427768993095
 GameObject:
   m_ObjectHideFlags: 0
@@ -112,7 +128,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: CircuitLaunchCone
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 4509b91facaeeb14584fb306b23fcaa4, type: 3}
+    - target: {fileID: 919132149155446097, guid: 4509b91facaeeb14584fb306b23fcaa4,
+        type: 3}
+      propertyPath: m_Layer
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4509b91facaeeb14584fb306b23fcaa4,
+        type: 3}
       propertyPath: m_TagString
       value: Obstacle
       objectReference: {fileID: 0}
